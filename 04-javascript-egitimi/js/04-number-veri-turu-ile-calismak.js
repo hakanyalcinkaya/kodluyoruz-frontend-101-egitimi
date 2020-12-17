@@ -1,4 +1,4 @@
-// ********** number ********** 
+// ********** Number Veri Turu ile Calismak ********** 
 // number veri turu tanimlamak:
 let price = 100
 let tax = 0.18
