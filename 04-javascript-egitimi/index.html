@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,12 +13,17 @@
             color: red
         }
     </style> -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
 </head>
+
 <body>
+
+    <div id="alert"></div>
+
     <h1 id="greeting">Kodluyoruz - Front-End 101</h1>
 
-    
+
 
 
     <!-- 010 dom icerisinden oge secimi ve duzenleme islemleri: 
@@ -50,15 +56,34 @@
         <div class="row">
             <div class="col-sm-8 offset-sm-2">
                 <form id="userForm">
-                    <input type="number" name="score" id="score">
-                    <button type="reset" class="btn btn-danger">Sifirla</button>
-                    <button type="submit" class="btn btn-success">Gonder</button>
+                    <div class="mb-3">
+                        <label class="form-label" for="username">Kullanici Adi</label>
+                        <input class="form-control" type="text" name="username" id="username">
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label" for="score">Not Bilgisi</label>
+                        <input class="form-control" type="number" name="score" id="score">
+                    </div>
+                    <div class="mb-3">
+
+                        <button type="reset" class="btn btn-danger">Sifirla</button>
+                        <button type="submit" class="btn btn-success">Gonder</button>
+                    </div>
                 </form>
+            </div>
+            <div class="col-sm-8 offset-sm-2 mt-4">
+                <ul class="list-group" id="userList">
+                    <!-- <li class="list-group-item d-flex justify-content-between align-items-center">
+                      Cras justo odio
+                      <span class="badge bg-primary rounded-pill">14</span>
+                    </li> -->
+                    
+                  </ul>
             </div>
         </div>
     </div>
 
-   
+
     <!-- 
         Not: 
         Her Çalışma İçin Ayrı Ayrı JS Dosyaları Oluşturuldu
@@ -66,7 +91,9 @@
     -->
 
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"
+        crossorigin="anonymous"></script>
     <!-- <script src="js/001-hello-world.js"></script> -->
     <!-- <script src="js/002-degisken-tanimlama.js"></script> -->
     <!-- <script src="js/003-degisken-tanimlama-kurallari.js"></script> -->
@@ -94,6 +121,8 @@
     <!-- <script src="js/025-localStorage-icerisinde-farkli-turde-bilgilerin-saklanmasi.js"></script> -->
     <!-- <script src="js/026-localStorage-bolum-sonu-egzersizi.js"></script> -->
     <!-- <script src="js/027-form-submit-yonetimi.js"></script> -->
-    <script src="js/028-input-icerisindeki-veriyi-almak.js"></script>
+    <!-- <script src="js/028-input-icerisindeki-veriyi-almak.js"></script> -->
+    <script src="js/029-formlarla-calismak-bolum-sonu-egzersizi.js"></script>
 </body>
+
 </html>
