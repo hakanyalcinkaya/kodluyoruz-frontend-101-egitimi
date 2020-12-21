@@ -19,3 +19,16 @@ console.log("lastItem: ", lastItem, ", items: ", items)
 // Array: bastaki ogeyi cikarmak -> shift
 let firstItem = items.shift() // ilk elemani firstItem icerisine ekledik
 console.log("firstItem: ", firstItem, ", items: ", items)
+
+// Array icindeki bir ogenin bilgisinin degistirilmesi:
+
+// ilk ogenin degistirilmesi
+items[0] = 5;
+console.log(items)
+
+// sonuncu ogenin degistirilmesi:
+items[items.length - 1] = 1000
+console.log(items)
+
+items[2] = 10000
+console.log(items)
