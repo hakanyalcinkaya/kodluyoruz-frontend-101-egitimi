@@ -1,0 +1,25 @@
+/************** Layout  ***************/
+body {
+  background-color: black;
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+
+/* 
+h2 {
+  color: blue;
+  font-size: 4px;
+} */
+
+h2 {
+  color: red;
+  font-size: 74px;
+  text-transform: uppercase;
+}
+p {
+  font-size: 40px;
+}
+
+ul {
+  color: blue;
+}

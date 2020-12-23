@@ -1,0 +1,150 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.gradient {
+  background: linear-gradient(
+    90deg,
+    rgba(45, 156, 219, 0.6),
+    rgba(155, 81, 224, 0.6)
+  );
+}
+
+.btn {
+  padding: 10px 20px;
+  border-radius: 25px;
+  color: white;
+  text-decoration: none;
+  box-shadow: 2px 2px 15px 7px rgba(0, 0, 0, 0.3);
+}
+
+.container {
+  width: 1000px;
+  /*  
+    margin-left: auto;
+    margin-right: auto;*/
+  margin: 50px auto 0;
+}
+
+.left-bar {
+  width: 200px;
+  float: left;
+}
+.content {
+  width: 800px;
+  float: left;
+  height: auto;
+}
+
+.card {
+  width: 20%;
+  float: left;
+  padding: 5%;
+  margin-right: 3%;
+  background-color: rgb(209, 209, 209);
+  border-radius: 10px;
+}
+
+.clear {
+  clear: both;
+}
+
+.box {
+  background-color: red;
+  width: 300px;
+  height: 300px;
+  padding: 10px;
+  /*  margin: 10px; */
+  margin-right: 10px;
+  /*  margin-left: 10px; */
+  /*  margin-top: 10px; */
+  /*  margin-bottom: 10px; */
+  float: left;
+
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.bg-red {
+  background-color: red;
+}
+
+.bg-green {
+  background-color: green;
+}
+.bg-yellow {
+  background-color: yellow;
+}
+
+/**************** Layout ************/
+
+/* class -> .text-red {} */
+/* #id-bilgisi -> .text-red {}  */
+
+/* Css Selektors */
+
+/*
+ li:first-child {
+     color: green;
+ }
+
+ li:last-child {
+    color:aqua;
+} */
+
+/*
+li:nth-child(odd){
+     color: red;
+}
+
+li:nth-child(even){
+        color: blue;
+} 
+
+li:nth-child(3n){
+    color: red;
+} 
+
+ .color-blue .fw-normal {
+     color: blue;
+     font-weight: normal;
+ }
+
+ h1, h2, h3, h4, h5, h6 {
+     color: #2c2c2c;
+ }
+ h1 {
+     font-size: 30px;
+     color: #202020;
+ }
+
+ p {
+     font-size: 20px;
+ }
+
+ #first-article {
+     font-size: 40px;
+ }
+   
+
+.text-red {
+    color: red; 
+}
+
+.fs-14 {
+    font-size: 14px;
+
+}
+
+.fs-20 {
+    font-size: 20px;
+    
+}
+
+.fs-30 {
+    font-size: 30px;
+
+}
+
+*/
