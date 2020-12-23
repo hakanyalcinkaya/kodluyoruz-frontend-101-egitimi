@@ -18,3 +18,5 @@ Eğitim Kategorileri:
 - GIT ve GitHub
 - Javascript
 
+## Kullanılan VS Code Eklentileri:
+- [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
