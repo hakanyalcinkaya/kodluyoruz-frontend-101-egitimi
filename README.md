@@ -1,13 +1,15 @@
 # Kodluyoruz - FrontEnd 101 Eğitimi
+> Hakan Yalçınkaya 
+> > [LinkedIn](https://www.linkedin.com/in/hakanyalcinkaya/) - [YouTube](https://www.youtube.com/hakanyalcinkaya?sub_confirmation=1) - [Medium](https://medium.com/@hakanyalcinkaya)
 
-Eğitimin Genel Hedefi:
+## Eğitimin Genel Hedefi:
 * Yazılım Dünyasına yeni adım atan kişiler için temel konuların incelenmesi
 * roadmap.sh ile hedeflerini kontrol etmelerini sağlamak
 * JavaScript’e geçmeden önce HTML, CSS ve Bootstrap gibi temel yapıları kullanabilmelerini sağlamak
 * Text Editör hakimiyetlerini kazandırmak
 * JavaScript temellerini aktarıp herhangi bir Front-End kütüphanesi kullanmadan başlangıç düzeyindeki projeleri hayata geçirebilmelerini sağlamak
 
-Eğitim Kategorileri:
+## Eğitim Kategorileri:
 - Eğitime Başlarken
 - Yol Haritası
 - Kurulum ve Genel Ayarlar
