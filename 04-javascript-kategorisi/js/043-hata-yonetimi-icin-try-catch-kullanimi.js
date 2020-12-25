@@ -1,4 +1,8 @@
 // hata-yonetimi-icin-try-catch-kullanimi
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch
+// https://www.w3schools.com/js/js_errors.asp
+
+
 let products;
 
 try {
