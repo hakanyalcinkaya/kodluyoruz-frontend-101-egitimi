@@ -57,7 +57,7 @@ const addItem = (userName, score) => {
 // Sample Website yapımında butonu interaktif yapmak için kullanabilirsiniz.(bkz. Bootstrap)
 // Tüm popoverları çalıştırmak için .js kodu:
 
-var popoverTriggerList = [].slice.call(document.querySelectorAll('[data-toggle="popover"]'))
-var popoverList = popoverTriggerList.map(function (popoverTriggerEl) {
-  return new bootstrap.Popover(popoverTriggerEl)
-})
+// var popoverTriggerList = [].slice.call(document.querySelectorAll('[data-toggle="popover"]'))
+// var popoverList = popoverTriggerList.map(function (popoverTriggerEl) {
+//  return new bootstrap.Popover(popoverTriggerEl)
+//})
