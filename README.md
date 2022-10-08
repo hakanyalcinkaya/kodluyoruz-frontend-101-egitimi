@@ -2,6 +2,8 @@
 > Hakan Yalçınkaya 
 > > [LinkedIn](https://www.linkedin.com/in/hakanyalcinkaya/) - [YouTube](https://www.youtube.com/hakanyalcinkaya?sub_confirmation=1) - [Medium](https://medium.com/@hakanyalcinkaya)
 
+> Not: Contributors(Katkıda Bulunanlar) Kısmında İsminizin Görünmesi için Birçok Konuda Bu Repo'ya Katkıda Bulunabilirsiniz. Örneğin Her Bölüm ile İlgili Hazırladığım README Sayfalarına Besleyici Linkler veya Hazırladığım Kod Örneklerine Benzer Değişik Örnekler Hazırlayabilirsiniz 🤗
+
 ## Hazırladığım Diğer Eğitimler:
 - [Udemy: Uçtan Uca Projelerle Sıfırdan Full Stack Python ve Django Eğitimi ::: Repo (Eğitim Hazırlanıyor)](Uctan-Uca-Projelerle-Sifirdan-Full-Stack-Python-ve-Django-Egitimi)
 - [Udemy: Sıfırdan Projelerle Yeni Nesil Front-End ve React Eğitimi ::: Repo (Eğitim Hazırlanıyor)](https://github.com/hakanyalcinkaya/Sifirdan-Projelerle-Yeni-Nesil-Front-End-ve-React-Egitimi)
