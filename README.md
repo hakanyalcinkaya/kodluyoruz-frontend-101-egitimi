@@ -2,6 +2,15 @@
 > Hakan Yalçınkaya 
 > > [LinkedIn](https://www.linkedin.com/in/hakanyalcinkaya/) - [YouTube](https://www.youtube.com/hakanyalcinkaya?sub_confirmation=1) - [Medium](https://medium.com/@hakanyalcinkaya)
 
+## Hazırladığım Diğer Eğitimler:
+- [Udemy: Uçtan Uca Projelerle Sıfırdan Full Stack Python ve Django Eğitimi ::: Repo (Eğitim Hazırlanıyor)](Uctan-Uca-Projelerle-Sifirdan-Full-Stack-Python-ve-Django-Egitimi)
+- [Udemuy: Sıfırdan Projelerle Yeni Nesil Front-End ve React Eğitimi ::: Repo (Eğitim Hazırlanıyor)](https://github.com/hakanyalcinkaya/Sifirdan-Projelerle-Yeni-Nesil-Front-End-ve-React-Egitimi)
+- [Udemy: Emmet ile HTML ve CSS'te Hızlı Kodlama Teknikleri Öğrenin](https://www.udemy.com/course/emmet-ile-html-ve-css-te-hzl-kodlama-teknikleri-ogrenin/)
+- [Udemy: Markdown Öğren: Basit ama Çok Güçlü Yazı Biçimi](https://www.udemy.com/course/markdown-ogren-basit-ama-cok-guclu-yaz-bicimi-ile-tanis/)
+
+## Önemli Notlar:
+- [Yanlış Yerde Açılan Git Versiyon Kontrol Sistemine Dikkat Etmeniz Gerekiyor. Lütfen < git init > Kullanmadna Önce Bu Videoyu İzleyin](https://www.youtube.com/watch?v=5o8Q2uiqFTw&t=2s)
+
 ## Eğitimin Genel Hedefi:
 * Yazılım Dünyasına yeni adım atan kişiler için temel konuların incelenmesi
 * roadmap.sh ile hedeflerini kontrol etmelerini sağlamak
