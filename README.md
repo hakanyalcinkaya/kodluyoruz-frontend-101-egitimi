@@ -9,7 +9,7 @@
 - [Udemy: Markdown Öğren: Basit ama Çok Güçlü Yazı Biçimi](https://www.udemy.com/course/markdown-ogren-basit-ama-cok-guclu-yaz-bicimi-ile-tanis/)
 
 ## Önemli Notlar:
-- [Yanlış Yerde Açılan Git Versiyon Kontrol Sistemine Dikkat Etmeniz Gerekiyor. Lütfen < git init > Kullanmadna Önce Bu Videoyu İzleyin](https://www.youtube.com/watch?v=5o8Q2uiqFTw&t=2s)
+- [Yanlış Yerde Açılan Git Versiyon Kontrol Sistemine Dikkat Etmeniz Gerekiyor. Lütfen < git init > Kullanmadan Önce Bu Videoyu İzleyin](https://www.youtube.com/watch?v=5o8Q2uiqFTw&t=2s)
 
 ## Eğitimin Genel Hedefi:
 * Yazılım Dünyasına yeni adım atan kişiler için temel konuların incelenmesi
