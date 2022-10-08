@@ -4,7 +4,7 @@
 
 ## Hazırladığım Diğer Eğitimler:
 - [Udemy: Uçtan Uca Projelerle Sıfırdan Full Stack Python ve Django Eğitimi ::: Repo (Eğitim Hazırlanıyor)](Uctan-Uca-Projelerle-Sifirdan-Full-Stack-Python-ve-Django-Egitimi)
-- [Udemuy: Sıfırdan Projelerle Yeni Nesil Front-End ve React Eğitimi ::: Repo (Eğitim Hazırlanıyor)](https://github.com/hakanyalcinkaya/Sifirdan-Projelerle-Yeni-Nesil-Front-End-ve-React-Egitimi)
+- [Udemy: Sıfırdan Projelerle Yeni Nesil Front-End ve React Eğitimi ::: Repo (Eğitim Hazırlanıyor)](https://github.com/hakanyalcinkaya/Sifirdan-Projelerle-Yeni-Nesil-Front-End-ve-React-Egitimi)
 - [Udemy: Emmet ile HTML ve CSS'te Hızlı Kodlama Teknikleri Öğrenin](https://www.udemy.com/course/emmet-ile-html-ve-css-te-hzl-kodlama-teknikleri-ogrenin/)
 - [Udemy: Markdown Öğren: Basit ama Çok Güçlü Yazı Biçimi](https://www.udemy.com/course/markdown-ogren-basit-ama-cok-guclu-yaz-bicimi-ile-tanis/)
 
