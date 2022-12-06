@@ -5,6 +5,7 @@
 > Not: Contributors(Katkıda Bulunanlar) Kısmında İsminizin Görünmesi için Birçok Konuda Bu Repo'ya Katkıda Bulunabilirsiniz. Örneğin Her Bölüm ile İlgili Hazırladığım README Sayfalarına Besleyici Linkler veya Hazırladığım Kod Örneklerine Benzer Değişik Örnekler Hazırlayabilirsiniz 🤗
 
 ## Hazırladığım Diğer Eğitimler:
+- [Udemy: Sıfırdan Uçtan Uca Projelerle Python ve Django Öğren](http://lnk.ktlzr.co/gtdj)
 - [Udemy: İki Eğitmen ile Sıfırdan Pyhon Öğren](http://lnk.ktlzr.co/upy2)
 - [Udemy: Uçtan Uca Projelerle Sıfırdan Full Stack Python ve Django Eğitimi ::: Repo (Eğitim Hazırlanıyor)](https://github.com/hakanyalcinkaya/Uctan-Uca-Projelerle-Sifirdan-Full-Stack-Python-ve-Django-Egitimi)
 - [Udemy: Sıfırdan Projelerle Yeni Nesil Front-End ve React Eğitimi ::: Repo (Eğitim Hazırlanıyor)](https://github.com/hakanyalcinkaya/Sifirdan-Projelerle-Yeni-Nesil-Front-End-ve-React-Egitimi)
