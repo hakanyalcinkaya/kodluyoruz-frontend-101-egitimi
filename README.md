@@ -40,6 +40,7 @@
 ## Sık Kullanılan Markdown İşaretlemeleri
 - [Tutorial](https://commonmark.org/help/tutorial/index.html)
 - [Doküman](https://commonmark.org/help/)
+- [GitHub Markdown Emoji Lists](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion)
 ```
 # Başlık 1
 ## Başlık 2.. 
