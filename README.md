@@ -7,7 +7,7 @@
 ## Hazırladığım Diğer Eğitimler:
 
 ### Sıfırdan Projelerle Front-End ve React Eğitimi
-[![Udemy - Sıfırdan Projelerle React Öğren](https://github.com/hakanyalcinkaya/hakanyalcinkaya/blob/main/assets/img/udemy-react-v1.jpg)](http://lnk.ktlzr.co/gt-repo-react)
+[![Udemy - Sıfırdan Projelerle React Öğren](https://github.com/hakanyalcinkaya/hakanyalcinkaya/blob/main/assets/img/udemy-react-v1.jpg)](http://lnk.ktlzr.co/gtkreact)
 
 - [Udemy: Sıfırdan Projelerle JavaScript ve React Eğitimi)](http://lnk.ktlzr.co/gtkreact)
 - [Udemy: Uçtan Uca Projelerle Sıfırdan Full Stack Python ve Django Öğren](http://lnk.ktlzr.co/gtdj)
