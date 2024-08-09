@@ -1,5 +1,5 @@
 # Kodluyoruz - FrontEnd 101 Eğitimi
-> Hakan Yalçınkaya 
+> Hakan Yalçın
 > > [LinkedIn](https://www.linkedin.com/in/hakanyalcinkaya/) - [YouTube](https://www.youtube.com/hakanyalcinkaya?sub_confirmation=1) - [Medium](https://medium.com/@hakanyalcinkaya)
 
 > Not: Contributors(Katkıda Bulunanlar) Kısmında İsminizin Görünmesi için Birçok Konuda Bu Repo'ya Katkıda Bulunabilirsiniz. Örneğin Her Bölüm ile İlgili Hazırladığım README Sayfalarına Besleyici Linkler veya Hazırladığım Kod Örneklerine Benzer Değişik Örnekler Hazırlayabilirsiniz 🤗
